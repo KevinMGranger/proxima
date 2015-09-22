@@ -1,0 +1,12 @@
+{
+  "title": "Proxima",
+  "name": "proxima",
+  "version": "0.0.1",
+  "description": "Easily manage your proxy settings.",
+  "main": "index.js",
+  "author": "Kevin M Granger (http://kevinmgranger.me) <kmg2728@rit.edu>",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT"
+}
