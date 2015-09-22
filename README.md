@@ -1,3 +1,4 @@
+![Proxima logo](./icon.png)
 # Proxima
 Easily manage your Firefox proxy settings.
 
